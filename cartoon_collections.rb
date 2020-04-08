@@ -1,7 +1,6 @@
 def greet_characters(array)
   greet_characters.each do |greeting|
-    puts "#{greet_characters}"
-    greet_characters += 1
+    prints "#{greet_characters}" 
   end
   
   
