@@ -1,8 +1,8 @@
 def greet_characters(array)
   greet_characters.each do |greeting|
-    print "#{greet_characters.capitalize}"
+    puts "#{greet_characters.capitalize}"
   end
-  
+  print greet_characters
   
   
   
