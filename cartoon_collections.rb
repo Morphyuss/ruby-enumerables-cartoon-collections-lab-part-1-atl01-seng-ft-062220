@@ -1,10 +1,6 @@
-require 'pry'
 def greet_characters(array)
-  
   greet_characters.each do |greeting|
-    binding.pry
     puts "#{greet_characters.capitalize}"
-    
   end
   
   
